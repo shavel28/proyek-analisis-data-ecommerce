@@ -22,7 +22,7 @@ The results of the analysis are presented through an interactive dashboard built
 The interactive dashboard can be accessed through the following link:
 
 🔗 **Streamlit Dashboard:**  
-https://ecommerce-data-analytics.streamlit.app/
+https://ecommerce-data-analytics-shava.streamlit.app/
 
 ---
 
